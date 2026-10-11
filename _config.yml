@@ -1,0 +1,418 @@
+title: SMP Negeri 8 Balikpapan
+name: smpn8balikpapan
+# baseurl: "/smpn8balikpapan"
+
+alamat: Jl. Mulawarman Rt.54 No 14 Manggar Balikpapan Timur
+email: smpn8@smpn8balikpapan.sch.id
+phone: "(0542) 761902"
+# The `>` after `description:` means to ignore line-breaks until next key.
+# If you want to omit the line-break after the end of text, use `>-` instead.
+
+socmed:
+  - title: Instagram
+    link: "https://www.instagram.com/smpnegeri8balikpapan"
+    icon: "fab fa-instagram"
+  - title: Facebook
+    link: "https://id-id.facebook.com/"
+    icon: "fab fa-facebook-f"
+  - title: Youtube
+    link: "https://www.youtube.com/@smpnegeri8balikpapan546"
+    icon: "fab fa-youtube"
+  - title: Whatsapp
+    link: "https://web.whatsapp.com/%F0%9F%8C%90/id"
+    icon: "fab fa-whatsapp"
+
+#-----------------------------------Navbar----------------------#
+logo-navbar: /images/smpn8_new-foto/new-logo.png
+icon: /images/logobg.png
+#-----------------------------------End-Navbar----------------------#
+
+
+#----------------------------------Footer----------------------#
+logo-footer: /images/smpn8_new-foto/new-logo.png
+description-footer: >
+  SMPN 8 adalah sekolah Menengah Pertama yang menjadi sekolah 
+  Adiwiyata Mandiri dan Sekolah Penggerak, dilengkapi dengan 
+  tenaga pendidik berpengalaman dan metode pembelajaran inovatif.
+#-----------------------------------End-Footer----------------------#
+
+
+#----------------------------------Navbar_Menu_Link----------#
+menus:
+  - title: Beranda
+    link: /
+  - title: Profil
+    link: "#"
+    submenus: 
+      - title: Tentang Sekolah
+        link: /pages/profil-sekolah
+      - title: Sekolah Penggerak
+        link: /pages/profil-sekolah-penggerak
+      - title: Adiwiyata Mandiri
+        link: /pages/profil-adiwiyata-mandiri
+      - title: Guru
+        link: /pages/profil-guru
+      - title: Staff
+        link: /pages/profil-staff
+  - title: Berita
+    link: /pages/berita
+  - title: Pengumuman
+    link: /pages/pengumuman
+  - title: Informasi
+    link: "#"
+    submenus: 
+      - title: Ekstrakurikuler
+        link: /pages/ekstrakurikuler
+      - title: Prestasi Sekolah
+        link: /pages/prestasi
+      - title: Fasilitas Sekolah
+        link: /pages/fasilitas
+  - title: Galeri
+    link: /pages/galeri
+
+#----------------------------------End-Navbar_Menu_Link----------#
+
+
+
+#----------------------------------Halaman_Beranda----------#
+sliders:
+  - title: SMP Negeri 8 Balikpapan
+    text: Selamat Datang di
+    image: /images/AulaSmpn8.jpg
+    link: /pages/berita
+    linktext: Berita Terkini
+  - title: SMP Negeri 8 Balikpapan
+    text: Selamat Datang di
+    image: /images/LobySmpn8.jpg
+    link: /pages/berita
+    linktext: Berita Terkini
+
+three-services:
+  - logo: fas fa-laptop
+    title: Fasilitas
+    image: /images/pelatihan3.jpg
+    link: /pages/fasilitas
+    text: >
+      Kami menawarkan fasilitas terbaik untuk mendukung kenyamanan dalam belajar
+      dan mengajar. Kami memiliki ruang kelas yang baik, tersedia Chromebook untuk
+      membantu siswa dalam mengakses teknologi, terdapat laboratorium fisika yang lengkap,
+      Smart TV untuk memberikan komunikasi yang informatif dan kreatif, serta lapangan
+      yang luas untuk digunakan sebagai sarana pengembangan diri.
+  - logo: fas fa-school
+    title: Tentang Kami
+    image: /images/AulaSmpn8.jpg
+    link: /pages/profil-sekolah
+    text: >
+      SMP Negeri 8 Balikpapan adalah sekolah menengah pertama berakreditasi A dan
+      menerapkan Kurikulum Merdeka dalam pembelajarannya. Serta merupakan sekolah
+      Adiwiyata Mandiri dan Sekolah Penggerak yang terletak di Jl. Mulawarman No.14, RT.54,
+      Manggar, Kec. Balikpapan Timur, Kota Balikpapan. SMP Negeri 8 Balikpapan berkomitmen
+      untuk menciptakan lingkungan pendidikan yang baik dan nyaman bagi siswa dengan
+      berbagai fasilitas serta kegiatan yang dapat menunjang kegiatan belajar dan mengajar. Kami
+      berharap siswa dapat tumbuh menjadi pribadi yang terus berkembang setiap harinya dengan
+      didampingi oleh tenaga pendidik yang berpengalaman.
+  - logo: fas fa-campground
+    title: Ekstrakurikler
+    image: /images/AulaSmpn8.jpg
+    link: /pages/ekstrakurikuler
+    text: >
+      Di sekolah kami, akademik bukanlah satu-satunya hal yang dapat dipelajari,
+      terdapat berbagai kegiatan ekstrakurikuler yang dapat diikuti oleh para siswa untuk
+      mengembangkan bakat dan minat mereka di luar jam pelajaran. Mulai dari kegiatan yang
+      dapat meningkatkan keterampilan fisik dan sportivitas, kegiatan di bidang seni dan
+      budaya, serta kegiatan yang berfokus pada kepemimpinan dan kemanusiaan. Setiap
+      kegiatan dirancang untuk mengembangkan bakat, membangun karakter disiplin, kerja
+      sama tim, dan memberikan kesempatan kepada siswa untuk belajar dan berkembang
+      dalam lingkungan yang positif dan mendukung.
+
+#foto dan nama kepala sekolah
+nama-kepala-sekolah: Mugiyatno, S.Pd., M. M
+foto-kepala-sekolah: /images/kepsek.jpeg
+
+#video sekolah
+link-video: "https://www.youtube.com/embed/brwgT-GvUKQ?si=nDoh9mU37gwWL9BK"
+thumbnail-video: /images/LobySmpn8_2.jpg
+title-video: Video Lingkungan SMPN 8 Balikpapan
+
+description-video: >
+  Selamat datang di website SMPN 8 Balikpapan, sekolah yang memiliki visi Beriman dan bertaqwa, 
+  berprestasi, berbudaya dan cinta lingkungan Kami sangat berkomitmen untuk memberikan pendidikan 
+  terbaik bagi para siswa kami dengan fasilitas yang memadai dan tenaga pendidik yang berpengalaman. 
+  Terima kasih sudah mengunjungi website kami dan kami berharap dapat bekerja sama untuk membangun masa 
+  depan yang lebih baik bagi generasi muda.
+#----------------------------------End-Halaman_Beranda----------#
+
+
+#----------------------------------Halaman_Galeri----------#
+galleries:
+  - title: Loby SMPN 8
+    img: /images/LobySmpn8.jpg
+
+  - title: Ikrar Anti Perundungan
+    img: /images/smpn8_new-foto/ikrar-anti-perundungan.jpg
+
+  - title: Pelatihan Desain UI/UX oleh Mahasiswa ITK
+    img: /images/pelatihan3.jpg
+
+  - title: Pelaksanaan RAKERNAS APEKSI ke-XVII
+    img: /images/galeri/Pelaksanaan RAKERNAS APEKSI ke-XVII.jpg
+
+  - title: Tim SMPN 8 juara 1 Trofeo dan juara 2 Turnamen Futsal
+    img: /images/galeri/Tim SMPN 8 juara 1 Trofeo dan juara 2 Turnamen Futsal.jpg
+
+  - title: Projek Penguatan Profil Pelajar Pancasila
+    img: /images/galeri/Projek Penguatan Profil Pelajar Pancasila.jpg
+    
+  - title: PII Project Leadership Basic Training 2023
+    img: /images/smpn8_new-foto/event_project-leadership-training.jpg
+#----------------------------------End-Halaman_Galeri----------#
+
+
+
+#----------------------------------Halaman_Staff----------#
+employees-staff:
+  - status: Satpam
+    name: Maverick, S.Pd.T.
+    img: /images/guru-staff/example.jpg
+    subjects: -Menjaga Keamanan Sekolah
+
+  - status: Tata Usaha
+    name: Razor, S.Pd.T.
+    img: /images/guru-staff/example.jpg
+    subjects: -Mengelola Administrasi
+
+  - status: Penjaga Perpustakaan
+    name: Vandal, S.Pd.T.
+    img: /images/guru-staff/example.jpg
+    subjects: -Menjaga Perpustakaan
+
+#----------------------------------End-Halaman_Staff----------#
+
+#----------------------------------Halaman_Guru----------#
+employees-guru:
+  - title: Matematika
+    guru:
+      - status: Guru
+        name: Ansel, S.Pd.T.
+        img: /images/guru-staff/example.jpg
+        subjects: -Matematika-Bahasa Inggris-Bahasa Indonesia
+      - status: Guru
+        name: Bagas1, S.Kom, M.Kom
+        img: /images/guru-staff/example.jpg
+        subjects: -BK-IPA-Matematika
+      - status: Guru
+        name: Bagas2, S.Kom, M.Kom
+        img: /images/guru-staff/example.jpg
+        subjects: -Matematika
+      - status: Guru
+        name: Bagas3, S.Kom, M.Kom
+        img: /images/guru-staff/example.jpg
+        subjects: -Matematika
+      - status: Guru
+        name: Bagas4, S.Kom, M.Kom
+        img: /images/guru-staff/example.jpg
+        subjects: -Matematika
+      - status: Guru
+        name: Bagas5, S.Kom, M.Kom
+        img: /images/guru-staff/example.jpg
+        subjects: -Matematika
+      - status: Guru
+        name: Bagas6, S.Kom, M.Kom
+        img: /images/guru-staff/example.jpg
+        subjects: -Matematika
+  - title: Bahasa Indonesia
+    guru:
+      - status: Guru
+        name: Ansel, S.Pd.T.
+        img: /images/guru-staff/example.jpg
+        subjects: -Matematika-Bahasa Inggris-Bahasa Indonesia
+      - status: Guru
+        name: Raisha, S.Pd.ML
+        img: /images/guru-staff/example.jpg
+        subjects: -Bahasa Indonesia-IPS
+  - title: IPA
+    guru:
+      - status: Guru
+        name: Dr. Putu, M.Pd.I
+        img: /images/guru-staff/example.jpg
+        subjects: -IPA-Agama Islam
+      - status: Guru
+        name:  Raisha0, S.Pd.ML
+        img: /images/guru-staff/example.jpg
+        subjects: -IPA
+      - status: Guru
+        name:  Raisha1, S.Pd.ML
+        img: /images/guru-staff/example.jpg
+        subjects: -IPA
+      - status: Guru
+        name:  Raisha2, S.Pd.ML
+        img: /images/guru-staff/example.jpg
+        subjects: -IPA
+      - status: Guru
+        name:  Raisha3, S.Pd.ML
+        img: /images/guru-staff/example.jpg
+        subjects: -IPA
+  - title: Agama Islam
+    guru:
+      - status: Guru
+        name: Haqi, S.Pd.M.
+        img: /images/guru-staff/example.jpg
+        subjects: -Agama Islam-IPS
+      - status: Guru
+        name: Dr. Putu, M.Pd.I
+        img: /images/guru-staff/example.jpg
+        subjects: -IPA-Agama Islam
+  - title: IPS
+    guru:
+      - status: Guru
+        name: Haqi, S.Pd.M.
+        img: /images/guru-staff/example.jpg
+        subjects: -Agama Islam-IPS
+      - status: Guru
+        name: Raisha, S.Pd.ML
+        img: /images/guru-staff/example.jpg
+        subjects: -Bahasa Indonesia-IPS
+  - title: Bahasa Inggris
+    guru:
+      - status: Guru
+        name: Ansel, S.Pd.T.
+        img: /images/guru-staff/example.jpg
+        subjects: -Matematika-Bahasa Inggris-Bahasa Indonesia
+#----------------------------------End-Halaman_Guru----------#
+
+
+#----------------------------------SEKOLAH PENGGERAK----------#
+sekolah-penggerak: 
+  - nama-kegiatan: Project 1
+    posts:
+      - tahun: 2022
+        deskripsi: lorem ipsum dolor sit ammte cons quen or ? ont en fave dot musl
+        images:
+         - image: /images/ex-1.jpg
+         - image: /images/ex-2.jpg
+         - image: /images/img2.png
+      - tahun: 2023
+        deskripsi: lorem ipsum dolor fans meweing sit ammte cons quen or ? ont en fave dot musl
+        images:
+         - image: /images/img2.png
+         - image: /images/img6.png
+         - image: /images/img7.png
+      - tahun: 2024
+        deskripsi: lorem ipsum skidibid toilet dolor sit ammte cons quen or ? ont en fave dot musl
+        images:
+         - image: /images/ex-2.jpg
+         - image: /images/ex-1.jpg
+         - image: /images/img6.png
+
+  - nama-kegiatan: Project 2
+    posts:
+      - tahun: 2022
+        deskripsi: lorem ipsum dolor sit ammte cons quen or ? ont en fave dot musl
+        images:
+         - image: /images/carousel-1.jpg
+         - image: /images/ex-2.jpg
+         - image: /images/img2.png
+      - tahun: 2023
+        deskripsi: lorem ipsum dolor fans meweing sit ammte cons quen or ? ont en fave dot musl
+        images:
+         - image: /images/img2.png
+         - image: /images/img6.png
+         - image: /images/img7.png
+      - tahun: 2024
+        deskripsi: lorem ipsum skidibid toilet dolor sit ammte cons quen or ? ont en fave dot musl
+        images:
+         - image: /images/ex-2.jpg
+         - image: /images/ex-1.jpg
+         - image: /images/img6.png
+
+  - nama-kegiatan: Project 3
+    posts:
+      - tahun: 2022
+        deskripsi: lorem ipsum dolor sit ammte cons quen or ? ont en fave dot musl
+        images:
+         - image: /images/ex-1.jpg
+         - image: /images/ex-2.jpg
+         - image: /images/img2.png
+      - tahun: 2023
+        deskripsi: lorem ipsum dolor fans meweing sit ammte cons quen or ? ont en fave dot musl
+        images:
+         - image: /images/img2.png
+         - image: /images/img6.png
+         - image: /images/img7.png
+      - tahun: 2024
+        deskripsi: lorem ipsum skidibid toilet dolor sit ammte cons quen or ? ont en fave dot musl
+        images:
+         - image: /images/ex-2.jpg
+         - image: /images/ex-1.jpg
+         - image: /images/img6.png
+
+
+#----------------------------------END SEKOLAH PENGGERAK----------#
+
+
+
+
+# Collections
+# collections:
+#   posts:
+#     output: true
+
+# categories: [pengumuman, berita, events, updates]
+
+jekyll-archives:
+  enabled: all
+  layout: default
+  permalinks:
+    year: '/:year/'
+    month: '/:year/:month/'
+    day: '/:year/:month/:day/'
+    tag: '/tag/:name/'
+    category: '/category/:name/'
+
+show_excerpts: true
+
+# Build settings
+
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+
+
+# Theme-specific settings
+
+minima:
+  # Minima date format.
+  # Refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this.
+  #
+  # date_format: "%b %-d, %Y"
+
+  # Generate social links in footer.
+  #
+  # social_links:
+  #   - { platform: devto,          user_url: "https://dev.to/jekyll" }
+  #   - { platform: dribbble,       user_url: "https://dribbble.com/jekyll" }
+  #   - { platform: facebook,       user_url: "https://www.facebook.com/jekyll" }
+  #   - { platform: flickr,         user_url: "https://www.flickr.com/photos/jekyll" }
+  #   - { platform: github,         user_url: "https://github.com/jekyll/minima" }
+  #   - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=qc6CJjYAAAAJ" }
+  #   - { platform: instagram,      user_url: "https://www.instagram.com/jekyll" }
+  #   - { platform: keybase,        user_url: "https://keybase.io/jekyll" }
+  #   - { platform: linkedin,       user_url: "https://www.linkedin.com/in/jekyll" }
+  #   - { platform: microdotblog,   user_url: "https://micro.blog/jekyll" }
+  #   - { platform: pinterest,      user_url: "https://www.pinterest.com/jekyll" }
+  #   - { platform: stackoverflow,  user_url: "https://stackoverflow.com/users/1234567/jekyll" }
+  #   - { platform: telegram,       user_url: "https://t.me/jekyll" }
+  #   - { platform: twitter,        user_url: "https://twitter.com/jekyllrb" }
+  #   - { platform: youtube,        user_url: "https://www.youtube.com/jekyll" }
+# If you want to link only specific pages in your header, uncomment this and add the path to the pages in
+# order as they should show up.
+#
+# header_pages:
+#   - about.md
+
+# Set to `true` to show excerpts on the homepage.
+#
+# show_excerpts: false
